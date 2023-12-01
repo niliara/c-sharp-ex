@@ -1,0 +1,14 @@
+/home/nilara/c/ac/obj/Debug/net7.0/ac.GeneratedMSBuildEditorConfig.editorconfig
+/home/nilara/c/ac/obj/Debug/net7.0/ac.AssemblyInfoInputs.cache
+/home/nilara/c/ac/obj/Debug/net7.0/ac.AssemblyInfo.cs
+/home/nilara/c/ac/obj/Debug/net7.0/ac.csproj.CoreCompileInputs.cache
+/home/nilara/c/ac/bin/Debug/net7.0/ac
+/home/nilara/c/ac/bin/Debug/net7.0/ac.deps.json
+/home/nilara/c/ac/bin/Debug/net7.0/ac.runtimeconfig.json
+/home/nilara/c/ac/bin/Debug/net7.0/ac.dll
+/home/nilara/c/ac/bin/Debug/net7.0/ac.pdb
+/home/nilara/c/ac/obj/Debug/net7.0/ac.dll
+/home/nilara/c/ac/obj/Debug/net7.0/refint/ac.dll
+/home/nilara/c/ac/obj/Debug/net7.0/ac.pdb
+/home/nilara/c/ac/obj/Debug/net7.0/ac.genruntimeconfig.cache
+/home/nilara/c/ac/obj/Debug/net7.0/ref/ac.dll
